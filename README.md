@@ -2,6 +2,10 @@
 
 A high-level animated portfolio website for **Najaf Ali Solangi**, a second-semester BS Computer Science student at BBSUTSD.
 
+## Live Demo
+
+[View the deployed portfolio](https://portfolio-lovat-five-32.vercel.app/)
+
 ## Features
 
 - Responsive desktop and mobile layout
